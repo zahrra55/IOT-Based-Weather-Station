@@ -14,7 +14,7 @@ This project is a **real-time IoT-based Weather Monitoring Station** built using
 
 ---
 
-## 📦 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Block Diagram](#block-diagram)
@@ -62,7 +62,7 @@ Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown b
 
 ---
 
-## 📍 Sensor Pin Mapping
+## Sensor Pin Mapping
 
 **Refer to this table to correctly wire your sensors:**
 
@@ -77,7 +77,7 @@ Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown b
 
 ---
 
-## 🧑‍💻 How It Works
+## How It Works
 
 1. **Sensors collect weather data:**  
    - Temperature and humidity from DHT11  
@@ -135,7 +135,7 @@ Your dashboard features responsive, modern styling and real-time data visualizat
 
 ---
 
-## 🗃️ References & Further Reading
+## References & Further Reading
 
 - Main Project Resource:  
   [CircuitDigest: How to Build an IoT-based Weather Monitoring System Using Arduino](https://circuitdigest.com/microcontroller-projects/how-to-build-an-iot-based-weather-monitoring-system-using-arduino)
@@ -149,5 +149,5 @@ Your dashboard features responsive, modern styling and real-time data visualizat
 
 ---
 
-## 🙋‍♂️ Contact
+## Contact
 For questions, reach out via Al-Nahrain University, Computer Science Department.
