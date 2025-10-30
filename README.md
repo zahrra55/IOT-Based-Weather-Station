@@ -68,7 +68,7 @@ Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown b
 | **MQ135**           | AO: A0, VCC: 5V, GND: GND         |
 | **Rain Sensor**     | AO: A1, VCC: 5V, GND: GND         |
 
-*(For details, see [CircuitDigest’s Pin Mapping Tables](https://circuitdigest.com/microcontroller-projects/how-to-build-an-iot-based-weather-monitoring-system-using-arduino#hardware-pinout)).*
+*(For details, see [CircuitDigest’s Pin Mapping Tables](https://circuitdigest.com/microcontroller-projects/how-to-build-an-iot-based-weather-monitoring-system-using-arduino#:~:text=MQ135%20Sensor%20and,Digital%20Pin%20(D3))).*
 
 ---
 
