@@ -9,11 +9,6 @@
 
 This project is a **real-time IoT-based Weather Monitoring Station** built using the Arduino UNO R4 WiFi board, featuring a web dashboard accessible over your local network. The station collects environmental data such as temperature, humidity, atmospheric pressure, rainfall, and air quality using common sensors. All readings are displayed live on a modern web dashboard, offering both raw values and graphical trends.
 
-**Project Inspired From:**  
-[How to Build an IoT-based Weather Monitoring System Using Arduino (CircuitDigest)](https://circuitdigest.com/microcontroller-projects/how-to-build-an-iot-based-weather-monitoring-system-using-arduino)
-
----
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -139,13 +134,7 @@ Your dashboard features responsive, modern styling and real-time data visualizat
 
 - Main Project Resource:  
   [CircuitDigest: How to Build an IoT-based Weather Monitoring System Using Arduino](https://circuitdigest.com/microcontroller-projects/how-to-build-an-iot-based-weather-monitoring-system-using-arduino)
-- Sensor Tutorials:  
-  - [DHT11 Sensor](https://circuitdigest.com/microcontroller-projects/interfacing-dht11-sensor-with-arduino-to-measure-temperature-and-humidity)  
-  - [BMP180 Barometric Pressure Sensor](https://circuitdigest.com/microcontroller-projects/interfacing-bmp180-barometric-pressure-sensor-with-arduino-uno)  
-  - [MQ135 Air Quality Sensor](https://circuitdigest.com/microcontroller-projects/interfacing-mq135-gas-sensor-with-arduino-to-measure-air-quality)  
-  - [Rain Sensor](https://circuitdigest.com/microcontroller-projects/rain-sensor-module-interfacing-with-arduino-uno)
-- Code & Inspiration (c) [CircuitDigest](https://circuitdigest.com/)  
-  For additional help, see [comments/discussion](https://circuitdigest.com/microcontroller-projects/how-to-build-an-iot-based-weather-monitoring-system-using-arduino#comment-form).
+
 
 ---
 
