@@ -114,7 +114,7 @@ Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown b
 
 - Connect your computer/smartphone to the same WiFi network as the Arduino.
 - The Arduino will print its IP address to the Serial Monitor upon boot.
-- Enter the IP (e.g. `http://192.168.0.101/`) into any browser to view your local IoT Weather Dashboard.
+- Enter the IP (e.g. `http://192.168.0.111/`) into any browser to view your local IoT Weather Dashboard.
 
 ---
 
