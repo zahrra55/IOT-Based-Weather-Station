@@ -38,7 +38,7 @@ My name is **Zahraa** and this is one of the projects I made for my IoT class du
 
 This diagram summarizes the communication architecture between your sensors, Arduino UNO R4 WiFi, and the web dashboard:
 
-![Block Diagram](https://circuitdigest.com/sites/default/files/inlineimages/iot-weather-monitoring-system-using-arduino-uno-block-diagram.png)
+![Block Diagram](https://circuitdigest.com/sites/default/files/inlineimages/u5/Block-Diagram-Mini-Weather-Monitoring-System.jpg)
 
 ---
 
@@ -46,12 +46,11 @@ This diagram summarizes the communication architecture between your sensors, Ard
 
 Use this wiring to connect all your sensors to the Arduino UNO R4 WiFi, as shown below:
 
-![Circuit Diagram](https://circuitdigest.com/sites/default/files/inlineimages/iot-weather-monitoring-system-using-arduino-circuit-diagram.png)
+![Circuit Diagram](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Circuit-Diagram-Arduino-Based-Weather-Monitoring-System.png)
 
 Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown based on your attached layout):
 
-![Breadboard Layout](https://user-images.githubusercontent.com/yourusername/image/breadboard_layout.png)
-*(Replace the above link with your actual local diagram or upload to GitHub if necessary)*
+![Breadboard Layout](https://circuitdigest.com/sites/default/files/inlineimages/u5/Hardware-Setup-Weather-Monitoring-System-using-Arduino.jpg)
 
 ---
 
@@ -134,7 +133,8 @@ Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown b
 
 Your dashboard features responsive, modern styling and real-time data visualization:
 
-![Web Dashboard Sample (Chart.js)](https://circuitdigest.com/sites/default/files/inlineimages/arduino-weather-dashboard-html-chart-js-code-sample.png)
+![Web Dashboard Sample (Chart.js)](https://c.top4top.io/p_3590akziq1.png)
+![Web Dashboard Sample (Chart.js)](https://k.top4top.io/p_3590l9eoy1.png)
 
 - **Live Sensor Cards:** For temperature, humidity, pressure, AQI, and rain.
 - **Trends Graph:** Interactive chart of sensor readings (auto-refreshes every second).
@@ -155,19 +155,7 @@ Your dashboard features responsive, modern styling and real-time data visualizat
 
 ---
 
-## ✨ License
-
-MIT License. See [LICENSE](./LICENSE) for details.
-
----
-
 ## 🙋‍♂️ Contact
 
 For questions, reach out via Al-Nahrain University, Computer Science Department.
-
-- **LinkedIn:** [zahraa-linkedin](https://www.linkedin.com/in/zahraa-linkedin)  
-- **Instagram:** [@zahraa.ig](https://www.instagram.com/zahraa.ig)
-
 ---
-
-*This project was completed as part of Zahraa’s IoT course at Al-Nahrain University. Credits to CircuitDigest for primary inspiration, diagrams, and architecture.*
