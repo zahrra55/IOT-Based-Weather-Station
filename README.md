@@ -5,18 +5,12 @@
 
 ---
 
-## 📡 Project Overview
+## Project Overview
 
 This project is a **real-time IoT-based Weather Monitoring Station** built using the Arduino UNO R4 WiFi board, featuring a web dashboard accessible over your local network. The station collects environmental data such as temperature, humidity, atmospheric pressure, rainfall, and air quality using common sensors. All readings are displayed live on a modern web dashboard, offering both raw values and graphical trends.
 
 **Project Inspired From:**  
 [How to Build an IoT-based Weather Monitoring System Using Arduino (CircuitDigest)](https://circuitdigest.com/microcontroller-projects/how-to-build-an-iot-based-weather-monitoring-system-using-arduino)
-
----
-
-## 🏫 About the Author
-
-My name is **Zahraa** and this is one of the projects I made for my IoT class during my first year in the MSCS program at **Al-Nahrain University**.
 
 ---
 
@@ -34,7 +28,7 @@ My name is **Zahraa** and this is one of the projects I made for my IoT class du
 
 ---
 
-## 📊 Block Diagram
+## Block Diagram
 
 This diagram summarizes the communication architecture between your sensors, Arduino UNO R4 WiFi, and the web dashboard:
 
@@ -42,7 +36,7 @@ This diagram summarizes the communication architecture between your sensors, Ard
 
 ---
 
-## 🔌 Circuit Diagram
+## Circuit Diagram
 
 Use this wiring to connect all your sensors to the Arduino UNO R4 WiFi, as shown below:
 
@@ -54,7 +48,7 @@ Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown b
 
 ---
 
-## 🛠️ Components Used
+## Components Used
 
 | Component                                | Quantity | Notes                                             |
 |-------------------------------------------|----------|---------------------------------------------------|
@@ -103,7 +97,7 @@ Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown b
 
 ---
 
-## ⚡ How To Build
+## How To Build
 
 ### 1. Hardware Assembly
 
@@ -125,7 +119,7 @@ Or use the Fritzing/breadboard-style diagram for exact pin-outs (example shown b
 
 - Connect your computer/smartphone to the same WiFi network as the Arduino.
 - The Arduino will print its IP address to the Serial Monitor upon boot.
-- Enter the IP (e.g. `http://192.168.1.100/`) into any browser to view your local IoT Weather Dashboard.
+- Enter the IP (e.g. `http://192.168.0.101/`) into any browser to view your local IoT Weather Dashboard.
 
 ---
 
@@ -156,6 +150,4 @@ Your dashboard features responsive, modern styling and real-time data visualizat
 ---
 
 ## 🙋‍♂️ Contact
-
 For questions, reach out via Al-Nahrain University, Computer Science Department.
----
